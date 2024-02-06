@@ -10,6 +10,7 @@ public class Interface_7 {
         Interface_7.implementsMultipleInterfaces();
         Interface_7.interfaceExtendsCase();
         Interface_7.interfaceDefaultMethodExample();
+
     }
 
     // interface使用案例
@@ -38,6 +39,7 @@ public class Interface_7 {
         InterfaceDefaultExampleClass i = new InterfaceDefaultExampleClass();
         i.run();
     }
+
 }
 
 interface Person {
